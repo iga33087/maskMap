@@ -48,7 +48,7 @@ export default {
       searchResults:[],
       cityList:cityList,
       search: {
-        county:"",
+        county:"新北市",
         town:""
       }
     }
